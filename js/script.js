@@ -5,3 +5,4 @@ function mostrarDicas() {
     } else {
         dicasInfo.style.display = "none";
     }
+}
